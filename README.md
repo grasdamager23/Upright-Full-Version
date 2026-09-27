@@ -241,4 +241,4 @@ This repository serves as the official landing page for UpRight. The software is
 **Get the most recent version of UpRight today!**
 
 ---
-**Last updated:** 2026-09-27 00:12:53 UTC
+**Last updated:** 2026-09-27 06:11:30 UTC
